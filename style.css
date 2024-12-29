@@ -1,0 +1,24 @@
+body {
+    
+}
+
+.search-div {
+    width: 60%;
+    height: 30px;
+    
+    background-color: white;
+    opacity: 50%;
+}
+
+
+.search-input {
+    font-size: 15px;
+    color: rgb(185, 185, 185);
+}
+
+
+
+.search-input img {
+    width: 20px;
+    height: 20px;
+}
